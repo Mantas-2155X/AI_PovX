@@ -1,7 +1,8 @@
-# AI_PovX
-This plugin allows you to enter POV mode during H
+# AI_PovX  
+This plugin allows you to enter POV mode during H  
 
-Based of: https://github.com/Keelhauled/KoikatuPlugins/blob/master/src/RealPov/RealPov.cs
+Based of: https://github.com/Keelhauled/KoikatuPlugins/blob/master/src/RealPov/RealPov.cs  
+Needed for configuration: https://github.com/BepInEx/BepInEx.ConfigurationManager  
 
 **Default configuration:**  
 * Key `,` - Enable POV  
@@ -11,3 +12,5 @@ Based of: https://github.com/Keelhauled/KoikatuPlugins/blob/master/src/RealPov/R
 * Rotate neck with mouse (rotates the POV view)  
 * Snap to characters viewpoint when switching chara  
 * Support for multichara POV (female POV, etc..)  
+* Changing FOV of the POV mode  
+* Changing POV camera position offset  
