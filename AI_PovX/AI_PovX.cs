@@ -8,9 +8,11 @@ using UnityEngine;
 
 namespace AI_PovX
 {
-    [BepInPlugin(nameof(AI_PovX), nameof(AI_PovX), "1.0.0")]
+    [BepInPlugin(nameof(AI_PovX), nameof(AI_PovX), VERSION)][BepInProcess("AI-Syoujyo")]
     public partial class AI_PovX : BaseUnityPlugin
     {
+        public const string VERSION = "1.0.0";
+        
         private static Camera mainCamera;
         private static Transform mainCameraTransform;
         
