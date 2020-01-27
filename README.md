@@ -4,6 +4,8 @@ This plugin allows you to enter POV mode during H
 Based of: https://github.com/Keelhauled/KoikatuPlugins/blob/master/src/RealPov/RealPov.cs  
 Needed for configuration: https://github.com/BepInEx/BepInEx.ConfigurationManager  
 
+# DO NOT REUPLOAD WITHOUT PERMISSION | 未经许可请勿转载
+
 **Default configuration:**  
 * Key `,` - Enable POV  
 * Key `.` - Next character  
